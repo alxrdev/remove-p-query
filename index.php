@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Hello Dolly
+ * Plugin Name: Remove P Query
  * Plugin URI: https://github.com/alxrdev/remove-p-query
  * Description: Plugin that removes the p query variable from the list of public query variables.
  * Author: Alex Rodrigues Moreira
